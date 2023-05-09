@@ -1,4 +1,4 @@
-name: Go + PostgreSQL
+name: Go + PostgreSQLL
 
 on: [push]
 
